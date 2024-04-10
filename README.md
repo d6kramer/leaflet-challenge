@@ -12,3 +12,7 @@ I originally had a substantial amount of trouble understanding how to properly a
 I receieved guidance and partnership from my tutor, Justin, on approaching the challenge using geoJSON formatting Leaflet documentation. This consisted of Just heavily modifying my initial code to create a framework set up for the geoJSON function, followed by guided conversation/working through the steps needed to properly implement each portion of the challenge (such as the style function, verifying markers were working properly, building the legend, etc.).
 
 Justin was indispensable in helping me close some gaps in understanding, directing me towards the most useful documentation, and helping me see that my original efforts weren't wildly off base, but rather needed a few key missing components in order to attain forward progress.
+
+## No Part 2
+
+Please note that Part 2 simply contains the starter code files; due to time contraints and the desire to focus on Project 3 workload, I unfortunately do not have time this week to take on the optional Part 2 portion of this challenge.
