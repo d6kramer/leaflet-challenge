@@ -7,7 +7,7 @@ NOTE: While I left a "logic_working.js" file in the repository, I also left the 
 
 ## References
 
-I originally had a substantial amount of trouble understanding how to properly access the data after calling it with the API query; I was initially successfully only able to log the data into the console.
+I originally had a substantial amount of trouble understanding how to properly access the data after calling it with the API query; I was initially only able to successfully log the data into the console.
 
 I receieved guidance and partnership from my tutor, Justin, on approaching the challenge using geoJSON formatting Leaflet documentation. This consisted of Just heavily modifying my initial code to create a framework set up for the geoJSON function, followed by guided conversation/working through the steps needed to properly implement each portion of the challenge (such as the style function, verifying markers were working properly, building the legend, etc.).
 
